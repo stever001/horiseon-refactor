@@ -32,6 +32,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-
+Here is an example of what the completed project should look like:
+![Image of the expected final result](assets/images/01-html-css-git-homework-demo.png)
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
